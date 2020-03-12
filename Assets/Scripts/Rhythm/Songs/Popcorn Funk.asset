@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c34455f2abc408449ab2597272ab928b, type: 3}
+  m_Name: Popcorn Funk
+  m_EditorClassIdentifier: 
+  songDisplayName: Monstaz - Popcorn Funk
+  bmp: 114
+  audioClip: {fileID: 8300000, guid: 8af89cd0e39538549a356948c3bf3b4d, type: 3}
+  duration: 244.464
+  startTime: 0.425
